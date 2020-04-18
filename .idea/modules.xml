@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microsvc/demo/demo.iml" filepath="$PROJECT_DIR$/microsvc/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microsvc/microsvc.iml" filepath="$PROJECT_DIR$/microsvc/microsvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other/other.iml" filepath="$PROJECT_DIR$/other/other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microsvc/question/question.iml" filepath="$PROJECT_DIR$/microsvc/question/question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microsvc/user/user.iml" filepath="$PROJECT_DIR$/microsvc/user/user.iml" />
+    </modules>
+  </component>
+</project>
